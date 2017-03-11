@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidlib/androidlib.iml" filepath="$PROJECT_DIR$/androidlib/androidlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beautygirl/beautygirl.iml" filepath="$PROJECT_DIR$/beautygirl/beautygirl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frescogirl/frescogirl.iml" filepath="$PROJECT_DIR$/frescogirl/frescogirl.iml" />
       <module fileurl="file://$PROJECT_DIR$/heimagirl/heimagirl.iml" filepath="$PROJECT_DIR$/heimagirl/heimagirl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picassogirl/picassogirl.iml" filepath="$PROJECT_DIR$/picassogirl/picassogirl.iml" />
     </modules>
   </component>
 </project>
