@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.my_image_view)
     SimpleDraweeView mMyImageView;
-
+    //SimpleDraweeView的宽高必须写死或者最大，不能自适应
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
